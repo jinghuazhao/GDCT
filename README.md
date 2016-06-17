@@ -9,7 +9,6 @@ Zhao JH, Tan Q (2006).  Genetic dissection of complex traits in Silico: approach
 
 Further updates are available from the following two papers,
 
-Zhao JH (2007). Genetic Analysis Package. Journal of Statistical Software 23(8), 
-https://www.jstatsoft.org/article/view/v023i08
+Zhao JH (2007). Genetic Analysis Package. J Stat Soft 23(8), https://www.jstatsoft.org/article/view/v023i08
 
-Zhao JH, Luan JA (2012). Mixed modeling with whole genome data. Journal of Probability and Statistics, http://www.hindawi.com/journals/jps/2012/485174/
+Zhao JH, Luan JA (2012). Mixed modeling with whole genome data. J Prob Stat, http://www.hindawi.com/journals/jps/2012/485174/
