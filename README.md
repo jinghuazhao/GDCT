@@ -7,7 +7,7 @@ Zhao JH, Tan Q (2006). Genetic dissection of complex traits in Silico: approache
 
 Further information and updates are available from the following three papers,
 
-Zhao JH, Tan Q (2006). Integrated analysis of genetic data with R. Human Genomics 2(4), 258-265
+Zhao JH, Tan Q (2006). Integrated analysis of genetic data with R. Human Genomics 2(4), 258-265, http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525150/
 
 Zhao JH (2007). Genetic Analysis Package. Journal of Statistical Software 23(8), https://www.jstatsoft.org/article/view/v023i08
 
