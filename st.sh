@@ -9,10 +9,6 @@ git commit -m "SAS programs"
 git add stata
 git add README.md
 git commit -m "README"
-git add DATA.md
-git commit -m "Data"
-git add REFERENCES.md
-git commit -m "References"
 git add SOFTWARE.*
 git commit -m "Software"
 git add vdi.md
