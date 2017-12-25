@@ -140,7 +140,7 @@ sed 's/xianyi-OpenBLAS-48f06dd/xianyi-OpenBLAS-6d2da63/g' installScript.sh > st.
 bash st.sh
 
 ```
-where we donload the latest version 0.2.20 from SourceForge and use a revised installation script taking this into account. We still 
+where we download the latest version 0.2.20 from SourceForge and use a revised installation script taking this into account. We still 
 have to do one more thing, the issues are to do with
 ```
 ln -s libopenblas.so.0 libblas.so.3
