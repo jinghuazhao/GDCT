@@ -3,7 +3,7 @@ Genetic Dissection of Complex Traits
 
 This repository contains relevant software in SAS, Stata from the following paper.
 
-Zhao JH, Tan Q (2006). Genetic dissection of complex traits in Silico: approaches, problems and solution. Current Bioinformatics 1 (2), 359-369.
+Zhao JH, Tan Q (2006). [Genetic dissection of complex traits in Silico: approaches, problems and solution](https://jinghuazhao.github.io/paper/cbio06.pdf). Current Bioinformatics 1 (2), 359-369.
 
 Further information and updates are available from the following three papers,
 
