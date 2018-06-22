@@ -6,7 +6,7 @@ Genetic Dissection of Complex Traits
 
 Zhao JH, Ma J, Huang XN, Gong XF (1994). [Practical Guides to Statistical Packages](doc/pgsp.pdf) (Chinese).
 
-## Overview over SAS, Stata and S-PLUS/R
+## SAS, Stata and S-PLUS/R
 
 Zhao JH, Tan Q (2006). [Genetic dissection of complex traits in Silico: approaches, problems and solution](https://jinghuazhao.github.io/paper/cbio06.pdf). Current Bioinformatics 1 (2), 359-369.
 
