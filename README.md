@@ -12,8 +12,6 @@ Zhao JH, Tan Q (2006). [Integrated analysis of genetic data with R](https://www.
 
 Zhao JH (2007). [Genetic Analysis Package](https://www.jstatsoft.org/article/view/v023i08). Journal of Statistical Software 23(8).
 
-Zhao JH, Luan JA (2012). [Mixed modeling with whole genome data](http://www.hindawi.com/journals/jps/2012/485174/). Journal of Probability and Statistics, 
-
 ## Related materials
 
 Files from GWAS-2017: [vdi.md](vdi.md) and [SOFTWARE.md](SOFTWARE.md).
