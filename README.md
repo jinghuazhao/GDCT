@@ -14,7 +14,7 @@ Zhao JH (2007). [Genetic Analysis Package](https://www.jstatsoft.org/article/vie
 
 Zhao JH, Luan JA, Loos RJF, Wareham NJW (2011). [On genotype-phenotyp association using SAS](doc/742-040.pdf). Proceedings of the IASTED International Conference July 11 - 13, 2011 Cambridge, United Kingdom, Computational Bioscience (CompBio 2011)
 
-Files from GWAS-2017: [vdi.md](vdi.md) and [SOFTWARE.md](SOFTWARE.md).
+Zhao JH (2017). [vdi.md](vdi.md) and [SOFTWARE.md](SOFTWARE.md). GWAS-2017, Berlin.
 
 ## Related materials
 
