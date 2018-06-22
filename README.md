@@ -14,9 +14,9 @@ Zhao JH (2007). [Genetic Analysis Package](https://www.jstatsoft.org/article/vie
 
 Zhao JH, Luan JA (2012). [Mixed modeling with whole genome data](http://www.hindawi.com/journals/jps/2012/485174/). Journal of Probability and Statistics, 
 
-Additionally, I have kept files from GWAS-2017 which can be useful.
-
 ## Related materials
+
+Files from GWAS-2017: [vdi.md](vdi.md) and [SOFTWARE.md](SOFTWARE.md).
 
 Zhao JH, Ma J, Huang XN, Gong XF (2994). [Practical Guides to Statistical Packages](doc/pgsp.pdf).
 
