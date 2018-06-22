@@ -18,6 +18,6 @@ Zhao JH, Luan JA (2012). [Mixed modeling with whole genome data](http://www.hind
 
 Files from GWAS-2017: [vdi.md](vdi.md) and [SOFTWARE.md](SOFTWARE.md).
 
-Zhao JH, Ma J, Huang XN, Gong XF (2994). [Practical Guides to Statistical Packages](doc/pgsp.pdf).
+Zhao JH, Ma J, Huang XN, Gong XF (2994). [Practical Guides to Statistical Packages](doc/pgsp.pdf) (Chinese).
 
 Zhao JH, Luan JA, Loos RJF, Wareham NJW (2009). [On genotype-phenotyp association using SAS](doc/742-040.pdf). Proceedings of the IASTED International Conference July 11 - 13, 2011 Cambridge, United Kingdom, Computational Bioscience (CompBio 2011)
