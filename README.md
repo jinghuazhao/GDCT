@@ -4,7 +4,7 @@ Genetic Dissection of Complex Traits
 
 ## Statistical packages
 
-Zhao JH, Ma J, Huang XN, Gong XF (1994). [Practical Guides to Statistical Packages](https://jinghuazhao.github.io/book/pgsp.pdf) (Chinese).
+Zhao JH, Ma J, Huang XN, Gong XF (1994). [Practical Guides to Statistical Packages](https://jinghuazhao.github.io/book/pgsp.pdf) (in Chinese).
 
 ## SAS, Stata and S-PLUS/R
 
