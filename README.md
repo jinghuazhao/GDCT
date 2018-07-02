@@ -20,7 +20,7 @@ Zhao JH, Luan JA, Loos RJF, Wareham N (2011). [On genotype-phenotyp association 
 
 Zhao JH (2017). [vdi.md](vdi.md) and [SOFTWARE.md](SOFTWARE.md). GWAS-2017 (see [GWAS-course](https://github.com/jinghuazhao/GWAS-course) for the workshop information), Berlin.
 
-Zhao JH, Luan JA, Congdon P (2018). Bayesian linear mixed models with polygenic effects. Journal of Statistical Software 85(6).
+Zhao JH, Luan JA, Congdon P (2018). [Bayesian linear mixed models with polygenic effects](https://www.jstatsoft.org/article/view/v085i06). Journal of Statistical Software 85(6).
 
 [Computational-Statistics](https://github.com/jinghuazhao/Computational-Statistics)
 
