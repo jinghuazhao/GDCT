@@ -25,3 +25,5 @@ Zhao JH, Luan JA, Congdon P (2018). [Bayesian linear mixed models with polygenic
 Zhao JH (2018). [Computational-Statistics](https://github.com/jinghuazhao/Computational-Statistics), GitHub.
 
 Zhao JH (2018). [DSA](https://github.com/jinghuazhao/DSA), GitHub.
+
+Zhao JH (2018). [Mixed-Models](https://github.com/jinghuazhao/Mixed-Models), GitHub.
