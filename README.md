@@ -27,3 +27,5 @@ Zhao JH (2018). [Computational-Statistics](https://github.com/jinghuazhao/Comput
 Zhao JH (2018). [DSA](https://github.com/jinghuazhao/DSA), GitHub.
 
 Zhao JH (2018). [Mixed-Models](https://github.com/jinghuazhao/Mixed-Models), GitHub.
+
+Zhao JH (2018). [Omics-analysis](https://github.com/jinghuazhao/Omics-analysis), GitHub.
