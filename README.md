@@ -22,4 +22,4 @@ Zhao JH (2017). [vdi.md](vdi.md) and [SOFTWARE.md](SOFTWARE.md). GWAS-2017 (see 
 
 Zhao JH, Luan JA, Congdon P (2018). [Bayesian linear mixed models with polygenic effects](https://www.jstatsoft.org/article/view/v085i06). Journal of Statistical Software 85(6).
 
-Zhao JH (2018). [Computational-Statistics](https://github.com/jinghuazhao/Computational-Statistics), [DSA](https://github.com/jinghuazhao/DSA), [Mixed-Models](https://github.com/jinghuazhao/Mixed-Models), [Omics-analysis](https://github.com/jinghuazhao/Omics-analysis), GitHub.
+Zhao JH (2018). [Computational-Statistics](https://github.com/jinghuazhao/Computational-Statistics), [DSA](https://github.com/jinghuazhao/DSA), [Mixed-Models](https://github.com/jinghuazhao/Mixed-Models), [Omics-analysis](https://github.com/jinghuazhao/Omics-analysis), GitHub repositories.
