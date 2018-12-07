@@ -18,7 +18,7 @@ Zhao JH (2007). [Genetic Analysis Package](https://www.jstatsoft.org/article/vie
 
 Zhao JH, Luan JA, Loos RJF, Wareham N (2011). [On genotype-phenotyp association using SAS](https://jinghuazhao.github.io/paper/742-040.pdf). *Proceedings of the IASTED International Conference* July 11 - 13, 2011 Cambridge, United Kingdom, Computational Bioscience (CompBio 2011)
 
-Zhao JH, Luan JA (2012). [Mixed modeling with whole genome data](https://www.hindawi.com/journals/jps/2012/485174/). *Journal of Probability and Statistics*, Volume 2012, 1-16, http://dx.doi.org/10.1155/2012/485174
+Zhao JH, Luan JA (2012). [Mixed modeling with whole genome data](https://www.hindawi.com/journals/jps/2012/485174/). *Journal of Probability and Statistics*, Volume 2012, 1-16.
 
 Zhao JH (2017). [vdi.md](vdi.md) and [SOFTWARE.md](SOFTWARE.md). GWAS-2017 (see https://www.physalia-courses.org/courses-workshops/course15/ and [GWAS-course](https://github.com/jinghuazhao/GWAS-course) for the workshop information), Berlin.
 
