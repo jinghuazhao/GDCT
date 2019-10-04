@@ -1,6 +1,4 @@
-# GDCT
-
-Genetic Dissection of Complex Traits
+# Genetic Dissection of Complex Traits
 
 ## Statistical packages
 
