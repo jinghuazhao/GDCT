@@ -24,6 +24,6 @@ Zhao JH, Luan JA, Congdon P (2018). [Bayesian linear mixed models with polygenic
 
 # Repositories
 
-Zhao JH (2017). [vdi.md](vdi.md) and [SOFTWARE.md](SOFTWARE.md). GWAS-2017 (see https://www.physalia-courses.org/courses-workshops/course15/ and [GWAS-course](https://github.com/jinghuazhao/GWAS-course) for the workshop information), Berlin.
+Zhao JH (2017). [vdi.md](vdi.md) and [SOFTWARE.md](SOFTWARE.md). GWAS-2017 (see https://www.physalia-courses.org/courses-workshops/course15/ and [GWAS-course](https://github.com/jinghuazhao/GWAS-course) for the workshop information), Berlin, https://github.com/jinghuazhao?tab=repositories.
 
-Zhao JH (2019). GitHub repositories: [Computational-Statistics](https://github.com/jinghuazhao/Computational-Statistics), [DSA](https://github.com/jinghuazhao/DSA), [Mixed-Models](https://github.com/jinghuazhao/Mixed-Models), [Numerical-Analysis](https://github.com/jinghuazhao/Numerical-Analysis), [Omics-analysis](https://github.com/jinghuazhao/Omics-analysis).
+Zhao JH (2019). GitHub repositories: [Computational-Statistics](https://github.com/jinghuazhao/Computational-Statistics), [DSA](https://github.com/jinghuazhao/DSA), [Mixed-Models](https://github.com/jinghuazhao/Mixed-Models), [Numerical-Analysis](https://github.com/jinghuazhao/Numerical-Analysis), [Omics-analysis](https://github.com/jinghuazhao/Omics-analysis), https://github.com/jinghuazhao?tab=repositories.
