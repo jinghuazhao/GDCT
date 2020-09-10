@@ -14,7 +14,7 @@ Zhao JH, Tan Q (2006). [Integrated analysis of genetic data with R](https://www.
 
 Zhao JH (2007). [gap: Genetic Analysis Package](https://www.jstatsoft.org/article/view/v023i08). *Journal of Statistical Software* 23(8), 1-18.
 
-Zhao JH, Luan JA, Tan Q, Loos R, Wareham NJ (2007). [Analysis of large genomic data in silico: the EPIC-Norfolk study of obesity](https://jinghuazhao.github.io/paper/icic2007.pdf). In DS Huang, L Heutte, and M Loog (Eds). *Advanced Intelligent 
+Zhao JH, Luan JA, Tan Q, Loos R, Wareham NJ (2007). [Analysis of large genomic data *in silico*: the EPIC-Norfolk study of obesity](https://jinghuazhao.github.io/paper/icic2007.pdf). In DS Huang, L Heutte, and M Loog (Eds). *Advanced Intelligent 
 Computing Theories and Applications with Aspects of Contemporary Intelligent Computing Techniques, Third International Conference on Intelligent Computing* (ICIC), CCIS 2, pp. 781–790, Springer-Verlag Berlin Heidelberg.
 
 Zhao JH, Luan JA, Loos RJF, Wareham N (2011). [On genotype-phenotyp association using SAS](https://jinghuazhao.github.io/paper/742-040.pdf). *Proceedings of the IASTED International Conference* July 11 - 13, 2011 Cambridge, United Kingdom, Computational Bioscience (CompBio 2011)
